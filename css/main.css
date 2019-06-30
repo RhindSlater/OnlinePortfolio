@@ -275,3 +275,11 @@ body .padX0 {
 .card-body{
     min-height: 201px;
 }
+.demo{
+    color:#007bff !important;
+    cursor: pointer;
+}
+.demo:hover{
+    color:#0056b3 !important;
+    cursor: pointer;
+}
