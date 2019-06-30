@@ -12,6 +12,22 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.homeImg2 {
+    background-image: url("../images/Background2.jpg");
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.homeImg3 {
+    background-image: url("../images/Background3.jpg");
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .center-v {
     position: absolute;
