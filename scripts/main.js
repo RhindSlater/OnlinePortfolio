@@ -41,3 +41,12 @@ $(document).ready(function(){
         $(".modal:visible").each(alignModal);
     });   
 });
+
+$(document).ready(function(){
+    $('.center').animate( {top: '50%'}, 850, function(){
+        $('.fixed-top').animate({top: '0'}, 300, function(){
+            
+            $('.center').animate( {left: '50%'}, 350);
+        });
+    });
+});
